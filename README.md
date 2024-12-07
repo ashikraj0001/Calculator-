@@ -8,7 +8,7 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://www.github.com/ashik0001/Calculator-.git`
+- $ `git clone https://www.github.com/ashikraj0001/Calculator-.git`
 - $ `cd Calculator-`
 - $ `chmod +x L12.py`
 - $ `python L12.py`
@@ -16,5 +16,5 @@
 <p><b>To Run</b></p>
 
 - $ `cd Calculator-`
-- $ `python2 L12.py`
+- $ `python L12.py`
 - installation Done ✅ ✅ 
